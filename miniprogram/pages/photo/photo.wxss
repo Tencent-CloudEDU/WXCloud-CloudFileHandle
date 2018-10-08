@@ -1,0 +1,7 @@
+.headImage{
+  width: 750rpx;
+  height: 750rpx;
+}
+.dBtn{
+  margin: 10px;
+}

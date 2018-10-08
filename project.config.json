@@ -1,0 +1,61 @@
+{
+	"miniprogramRoot": "miniprogram/",
+	"cloudfunctionRoot": "cloudfunctions/",
+	"setting": {
+		"urlCheck": false,
+		"es6": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true,
+		"nodeModules": true
+	},
+	"appid": "wxd1ca70db507085dd",
+	"projectname": "Cloud-File",
+	"libVersion": "2.2.5",
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"list": []
+		},
+		"miniprogram": {
+			"current": 2,
+			"list": [
+				{
+					"id": -1,
+					"name": "db guide",
+					"pathName": "pages/databaseGuide/databaseGuide",
+					"query": ""
+				},
+				{
+					"id": 1,
+					"name": "User Mode",
+					"pathName": "pages/user/user",
+					"query": "id=ocdyO4u6-0Gf92PZUWAsEK4LxkuI"
+				},
+				{
+					"id": 2,
+					"name": "Photo Mode",
+					"pathName": "pages/photo/photo",
+					"query": "id=W7h1OJ25dhqgD7gG"
+				},
+				{
+					"id": -1,
+					"name": "Add Mode",
+					"pathName": "pages/add/add",
+					"query": ""
+				}
+			]
+		}
+	}
+}

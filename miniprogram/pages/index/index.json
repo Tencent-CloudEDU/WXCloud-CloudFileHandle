@@ -1,0 +1,4 @@
+{"usingComponents": {
+    "van-button": "vant-weapp/button",
+    "van-card": "vant-weapp/card"
+  }}
